@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+}
+hr {
+    text-align: center;
+    height: 2px;
+    color: black;
+    background-color: black;
+    width: 95%;
+  }
+
+  table {
+    margin: 0 auto; 
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+
+  .contents {
+    justify-items: center;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+
+  .child-content {
+    border: 2px solid black;
+    padding-bottom: 2%;
+    margin-bottom: 1%;
+  }
+
+  .form-element {
+    justify-items: center;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  #user-form {
+    width: 50%;
+    height: 40%;
+  }
+
+  #user-list {
+    margin-top: 1%;
+    width: 50%;
+  }
+
+  #instructions-list {
+    margin-left: 1%;
+    margin-right: 1%;
+  }
